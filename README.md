@@ -18,7 +18,7 @@ Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo no
 
 In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al playtesting e alle modifiche nel tempo.
 
-**Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic.**
+**Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di MtG.**
 
 # Stato del progetto
 
