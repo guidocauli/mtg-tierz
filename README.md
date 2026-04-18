@@ -5,14 +5,14 @@ L’idea alla base è semplice: riportare al centro della partita le scelte dei 
 
 Il formato nasce come evoluzione del cosiddetto bracket 2.5, ma introduce una serie di modifiche mirate a ridurre l’ottimizzazione estrema e a favorire un power level distribuito. In Tier-Z non si cerca la combo perfetta, ma la coerenza del mazzo, la sinergia tra le carte e la capacità di adattarsi al contesto della partita.
 
-**La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia. **
+**La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia.**
 
 Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo non può superare i 100 euro e nessuna singola carta può superare i 10 euro. Questo limite non è solo una questione di accessibilità, ma anche uno strumento di design, perché impedisce l’accumulo di carte ad altissimo impatto e contribuisce a mantenere il formato equilibrato.
 Dal punto di vista del design, Tier-Z si fonda su alcuni principi chiave. 
 
 Il gioco deve rimanere **non deterministico**, evitando esiti inevitabili; l’interazione tra i giocatori deve essere costante e significativa; il livello di potenza deve essere distribuito in modo uniforme; e nessuna strategia deve risultare dominante al punto da ridurre la varietà delle partite. In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al playtesting e alle modifiche nel tempo.
 
-**Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic. **
+**Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic.**
 
 L’obiettivo finale è creare un ambiente in cui ogni partita sia diversa dalla precedente e in cui le decisioni dei giocatori contribuiscano a costruire una vera e propria narrazione condivisa.
 Questo progetto è fan-made, non ufficiale e non affiliato a Wizards of the Coast, ma nasce dalla volontà di esplorare nuove possibilità all’interno di un sistema di gioco già estremamente ricco.
