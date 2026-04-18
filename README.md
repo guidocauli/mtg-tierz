@@ -8,9 +8,15 @@ Il formato nasce come evoluzione del cosiddetto bracket 2.5, ma introduce una se
 **La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia.**
 
 Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo non può superare i 100 euro e nessuna singola carta può superare i 10 euro. Questo limite non è solo una questione di accessibilità, ma anche uno strumento di design, perché impedisce l’accumulo di carte ad altissimo impatto e contribuisce a mantenere il formato equilibrato.
-Dal punto di vista del design, Tier-Z si fonda su alcuni principi chiave. 
 
-Il gioco deve rimanere **non deterministico**, evitando esiti inevitabili; l’interazione tra i giocatori deve essere costante e significativa; il livello di potenza deve essere distribuito in modo uniforme; e nessuna strategia deve risultare dominante al punto da ridurre la varietà delle partite. In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al playtesting e alle modifiche nel tempo.
+# Principi chiave 
+
+- Il gioco deve rimanere **non deterministico**, evitando esiti inevitabili 
+- l’interazione tra i giocatori deve essere costante e significativa 
+- il livello di potenza deve essere distribuito in modo uniforme 
+- nessuna strategia deve risultare dominante al punto da ridurre la varietà delle partite. 
+
+In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al playtesting e alle modifiche nel tempo.
 
 **Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic.**
 
