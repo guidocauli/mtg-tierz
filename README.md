@@ -20,7 +20,18 @@ In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al 
 
 **Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic.**
 
-L’obiettivo finale è creare un ambiente in cui ogni partita sia diversa dalla precedente e in cui le decisioni dei giocatori contribuiscano a costruire una vera e propria narrazione condivisa.
-Questo progetto è fan-made, non ufficiale e non affiliato a Wizards of the Coast, ma nasce dalla volontà di esplorare nuove possibilità all’interno di un sistema di gioco già estremamente ricco.
+# Stato del progetto
+
+Il formato è attualmente in fase di sviluppo attivo. Le regole, la banlist e i moduli opzionali sono soggetti a revisione continua sulla base del playtesting e del feedback dei giocatori.
+
+# Contribuire
+
+Tier-Z è un progetto aperto. Chiunque può contribuire proponendo modifiche, suggerendo nuove regole o condividendo esperienze di gioco. L’obiettivo è costruire insieme un formato vivo, in grado di evolversi nel tempo.
+
+# Visione
+
+Tier-Z non è solo un insieme di regole, ma un tentativo di ridefinire il modo in cui si vive una partita di Magic. L’obiettivo finale è creare un ambiente in cui ogni partita sia diversa dalla precedente e in cui le decisioni dei giocatori contribuiscano a costruire una vera e propria narrazione condivisa.
+
+Questo progetto è fan-made, non ufficiale e non affiliato a Wizards of the Coast.
 
 **Tier-Z cerca di essere un invito a giocare Magic in modo diverso: meno prevedibile, più umano, più creativo.**
