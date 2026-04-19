@@ -1,14 +1,10 @@
-# 
-
-# 
-
 # **Tier-Z**
 
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
-Ultimo aggiornamento: 18/04/2026  
-Documento bozza versione 1.3.1
+Ultimo aggiornamento: 19/04/2026  
+Documento bozza versione 1.3.3
 
-MtG Tier-Z è un formato multiplayer di MtG strettamente non competitivo derivato dal Commander (identificabile come “Bracket 2.5”) progettato per:
+MtG Tier-Z è un formato multiplayer di MtG strettamente non competitivo derivato dal formato Commander e progettato per:
 
 * incentivare la socialità e l’interazione tra giocatori  
 * favorire partite narrative e memorabili  
@@ -146,7 +142,9 @@ Al regolamento di Commander vengono applicate le seguenti modifiche:
 * Guadagna 3 punti vita  
 * STAPpa fino a due terre base
 
-Quando invece un comandante lascia il campo di battaglia, se il giocatore che controllava quel comandante controlla almeno un’altra creatura sul campo di battaglia, quel giocatore deve scegliere e attivare uno dei seguenti effetti: 
+Questo effetto è da considerarsi alla stregua di un'abilità innescata e utilizza la pila.
+
+**Requiem del Campione**: una sola volta per turno, quando un comandante lascia il campo di battaglia, se il giocatore che controllava quel comandante controlla almeno un’altra creatura sul campo di battaglia, quel giocatore deve scegliere e attivare uno dei seguenti effetti: 
 
 * Una creatura che controlla prende \-2/-0 fino alle fine del turno  
 * Sceglie una carta dalla propria mano e la mette in cima al proprio deck   
@@ -158,7 +156,9 @@ Questo effetto è da considerarsi alla stregua di un'abilità innescata e utiliz
 
 #### **Regola opzionale: Momento Epico**
 
-Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come “Momento Epico”. Il giocatore di turno descrive i dettagli della sua azione e soprattutto dichiara (prevede) un esito della stessa come risultato finale. I turni definiti come "Momento Epico" dovrebbero contenere interazioni significative con altri giocatori e azioni mirate a cambiare profondamente gli equilibri di gioco. 
+Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come Momento Epico. 
+I turni definiti come Momento Epico devono includere interazioni significative con altri giocatori e/o azioni mirate a cambiare profondamente gli equilibri di gioco. 
+Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere. 
 
 Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto e in base all'esito si determina: 
 
@@ -178,7 +178,7 @@ Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto 
 
 Le azioni effettuate in seguito agli esiti del Momento Epico non vanno in pila, sono trattate alla stregua di azioni generate dallo stato e sono effettuate durante la sottofase di cancellazione. Eventuali effetti generati vanno in pila al termine della sottofase di cancellazione (vedi regole 514.2 e 514.3a).
 
-#### **Regola opzionale: deck di trucchetti (cantrips)**
+#### **Regola opzionale: Grimorio dei Trucchetti (cantrips)**
 
 Questa regola prevede di giocare con un deck aggiuntivo, comune a tutti i giocatori del tavolo, formato da “trucchetti”, da 30 carte totali.
 
@@ -189,9 +189,9 @@ per “trucchetti” (cantrips) si intendono carte Istantaneo o Stregoneria con 
 * far scartare una carta  
 * bersagliare fino a una singola creatura sul campo di battaglia (rimozioni, rimbalzi o bonus/malus con modifiche massime pari a \+3/+3 o \-3/-3 e solo se fino alla fine del turno)
 
-Ogni giocatore, una sola volta per turno all’inizio della propria fase principale pre-combattimento, può guardare la carta in cima a questo deck pagando 3 punti vita. Dopodiché può decidere se aggiungerla alla propria mano o metterla in fondo al deck dei trucchetti. 
+Ogni giocatore, una sola volta per turno all’inizio della propria fase principale pre-combattimento, può guardare la carta in cima a questo deck pagando 3 punti vita. Dopodiché può decidere se aggiungerla alla propria mano o metterla in fondo al Grimorio dei Trucchetti. 
 
-Una carta del deck dei trucchetti può essere utilizzata pagando mana di qualsiasi colore per lanciarla. Quando una carta del deck dei trucchetti viene messa in un cimitero dal gioco, viene invece messa in fondo al deck dei trucchetti.
+Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qualsiasi colore per lanciarla. Quando una carta del Grimorio dei Trucchetti viene messa in un cimitero dal gioco, viene invece messa in fondo al Grimorio dei Trucchetti.
 
 ### ***Lista provvisoria delle carte bandite (v1.2.1)***
 
