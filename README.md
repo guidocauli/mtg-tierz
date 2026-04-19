@@ -3,11 +3,13 @@
 Tier-Z è un formato fan-made ispirato al Commander, concepito per offrire un’esperienza di gioco più narrativa, sociale e meno deterministica. 
 L’idea alla base è semplice: riportare al centro della partita le scelte dei giocatori, le interazioni al tavolo e la costruzione di una storia condivisa, evitando quelle dinamiche che trasformano la partita in una sequenza prevedibile o inevitabile.
 
-Il formato nasce come evoluzione del cosiddetto bracket 2.5, ma introduce una serie di modifiche mirate a ridurre l’ottimizzazione estrema e a favorire un power level distribuito. In Tier-Z non si cerca la combo perfetta, ma la coerenza del mazzo, la sinergia tra le carte e la capacità di adattarsi al contesto della partita.
+Il formato nasce come una rielaborazione del Commander, ma mette da parte il concetto di "blacket" e introduce una serie di modifiche mirate a ridurre l’ottimizzazione parossistica e allo stesso tempo a favorire un power level distribuito. In Tier-Z non si cerca la combo perfetta, ma la coerenza del mazzo, la sinergia tra le carte e la capacità di adattarsi al contesto della partita.
 
 **La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia.**
 
-Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo non può superare i 100 euro e nessuna singola carta può superare i 10 euro. Questo limite non è solo una questione di accessibilità, ma anche uno strumento di design, perché impedisce l’accumulo di carte ad altissimo impatto e contribuisce a mantenere il formato equilibrato.
+Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo non può superare i 100 euro (~130 USD) e nessuna singola carta può superare i 10 euro (~13 USD). 
+
+Questo limite non è solamente una questione di accessibilità, ma anche uno strumento di design, perché impedisce l’accumulo di carte ad altissimo impatto e contribuisce a mantenere il formato equilibrato.
 
 # Principi chiave 
 
@@ -15,6 +17,7 @@ Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo no
 - l’interazione tra i giocatori deve essere costante e significativa 
 - il livello di potenza deve essere distribuito in modo uniforme 
 - nessuna strategia deve risultare dominante al punto da ridurre la varietà delle partite. 
+- **L'unica vera discriminante di ogni partita deve essere l'abilità dei giocatori.**
 
 In questo senso, il formato è pensato come uno spazio in evoluzione, aperto al playtesting e alle modifiche nel tempo.
 
