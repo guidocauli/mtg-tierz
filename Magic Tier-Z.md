@@ -158,7 +158,7 @@ Questo effetto è da considerarsi alla stregua di un'abilità innescata e utiliz
 
 #### **Regola opzionale: Momento Epico**
 
-Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come “Momento Epico”. Il giocatore di turno descrive i dettagli della sua azione e soprattutto dichiara (prevede) un esito della stessa come risultato finale. 
+Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come “Momento Epico”. Il giocatore di turno descrive i dettagli della sua azione e soprattutto dichiara (prevede) un esito della stessa come risultato finale. I turni definiti come "Momento Epico" dovrebbero contenere interazioni significative con altri giocatori e azioni mirate a cambiare profondamente gli equilibri di gioco. 
 
 Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto e in base all'esito si determina: 
 
