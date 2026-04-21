@@ -1,5 +1,5 @@
 # **Tier-Z**
-
+![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
 Ultimo aggiornamento: 19/04/2026  
 Documento bozza versione 1.3.3
@@ -131,6 +131,8 @@ In caso di dubbi, si applica il seguente principio:
 
 #### **Il comandante** 
 
+![](images/tierz_champions.png)
+
 Il comandante è una figura chiave nel gioco narrativo in formato Tier-Z.  
 Al regolamento di Commander vengono applicate le seguenti modifiche:
 
@@ -156,6 +158,9 @@ Questo effetto è da considerarsi alla stregua di un'abilità innescata e utiliz
 
 #### **Regola opzionale: Momento Epico**
 
+![](images/tierz_enter_champion.png)
+
+
 Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come Momento Epico. 
 I turni definiti come Momento Epico devono includere interazioni significative con altri giocatori e/o azioni mirate a cambiare profondamente gli equilibri di gioco. 
 Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere. 
@@ -179,6 +184,7 @@ Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto 
 Le azioni effettuate in seguito agli esiti del Momento Epico non vanno in pila, sono trattate alla stregua di azioni generate dallo stato e sono effettuate durante la sottofase di cancellazione. Eventuali effetti generati vanno in pila al termine della sottofase di cancellazione (vedi regole 514.2 e 514.3a).
 
 #### **Regola opzionale: Grimorio dei Trucchetti (cantrips)**
+![](images/tierz_cantrips.png)
 
 Questa regola prevede di giocare con un deck aggiuntivo, comune a tutti i giocatori del tavolo, formato da “trucchetti”, da 30 carte totali.
 
