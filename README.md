@@ -1,5 +1,5 @@
 # Tier-Z — Un formato Commander narrativo per MtG
-
+![](images/tierz_battlefield.png)
 Tier-Z è un formato fan-made ispirato al Commander, concepito per offrire un’esperienza di gioco più narrativa, sociale e meno deterministica. 
 L’idea alla base è semplice: riportare al centro della partita le scelte dei giocatori, le interazioni al tavolo e la costruzione di una storia condivisa, evitando quelle dinamiche che trasformano la partita in una sequenza prevedibile o inevitabile.
 
