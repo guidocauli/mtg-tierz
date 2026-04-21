@@ -7,7 +7,7 @@ Il formato nasce come una rielaborazione del Commander, ma mette da parte il con
 
 In Tier-Z non si cerca la combo perfetta, ma la coerenza del mazzo, la sinergia tra le carte e la capacità di adattarsi al contesto della partita.
 
-**La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia e. l'identità di colore dei mazzi.**
+**La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia e l'identità di colore dei mazzi.**
 
 Viene introdotto un vincolo economico preciso: il costo complessivo del mazzo non può superare i 100 euro (~130 USD) e nessuna singola carta può superare i 10 euro (~13 USD). 
 
