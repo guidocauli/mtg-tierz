@@ -236,6 +236,7 @@ Time Warp
 Temporal Manipulation  
 Nexus of Fate  
 Expropriate
+Emeritus of Woe
 
 #### **Watch list provvisoria v1.2** 
 
