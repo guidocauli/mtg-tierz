@@ -1,4 +1,4 @@
-# **Tier-Z**
+# **Tier-Z - un formato di gioco narrativo per MtG**
 ![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
 Ultimo aggiornamento: 19/04/2026  
