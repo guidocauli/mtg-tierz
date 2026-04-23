@@ -146,7 +146,7 @@ Al regolamento di Commander vengono applicate le seguenti modifiche:
 * STAPpa fino a due terre base
 
 Questo effetto è da considerarsi alla stregua di un'abilità innescata e utilizza la pila.
-**
+***
 **Requiem del Campione**: una sola volta per turno, quando un comandante lascia il campo di battaglia, se il giocatore che controllava quel comandante controlla almeno un’altra creatura sul campo di battaglia, quel giocatore deve scegliere e attivare uno dei seguenti effetti: 
 
 * Una creatura che controlla prende \-2/-0 fino alle fine del turno  
