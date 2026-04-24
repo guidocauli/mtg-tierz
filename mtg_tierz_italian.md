@@ -261,3 +261,7 @@ Aetherflux Reservoir
 Mind's Desire  
 Narset, Parter of Veils  
 Teferi's Protection
+
+# Licenza
+
+Quest'opera è sotto licenza Creative Commons CC BY-NC-ND 4.0. Per ottenere una copia di questa licenza, visitare [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/) (in lingua inglese).
