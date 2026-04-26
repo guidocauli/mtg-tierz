@@ -137,9 +137,10 @@ In caso di dubbi, si applica il seguente principio:
 Il comandante è una figura chiave nel gioco narrativo in formato Tier-Z.  
 Al regolamento di Commander vengono applicate le seguenti modifiche:
 ***
-**Benedizione del Campione**: una volta per turno, se il comandante diventa bersaglio di una magia o abilità avversaria, il suo controllore può pagare 3 punti vita. Se lo fa, quel comandante viene TAPpato e guadagna velo fino alla fine del turno. Questo effetto è da considerarsi alla stregua di un'abilità attivata e utilizza la pila.
+**Benedizione del Campione**: una volta per turno, se un comandante diventa bersaglio di una magia o abilità controllata da un avversario, il suo controllore può pagare 3 punti vita: se lo fa, quel comandante viene TAPpato e guadagna velo fino alla fine del turno.  
+Questo effetto è da considerarsi alla stregua di un'abilità attivata e utilizza la pila.
 ***
-**Presenza del Campione**: una sola volta per turno, quando un comandante entra nel campo di battaglia dalla zona di comando, se il giocatore che lo evoca controlla almeno un'altra creatura, quel giocatore può scegliere e attivare uno dei seguenti effetti:
+**Presenza del Campione**: una volta per turno, quando un comandante entra nel campo di battaglia dalla zona di comando, se il giocatore che lo evoca controlla almeno un'altra creatura, quel giocatore può scegliere e attivare uno dei seguenti effetti:
 
 * Aggiunge una carta dalla cima del deck alla mano  
 * Guadagna 3 punti vita  
