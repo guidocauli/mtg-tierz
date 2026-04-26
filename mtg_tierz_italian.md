@@ -1,8 +1,8 @@
 # **Tier-Z - un formato di gioco narrativo per MtG**
 ![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
-Ultimo aggiornamento: 19/04/2026  
-Documento bozza versione 1.3.3
+Ultimo aggiornamento: 26/04/2026  
+Documento bozza versione 1.3.4
 
 MtG Tier-Z è un formato multiplayer di MtG strettamente non competitivo derivato dal formato Commander e progettato per:
 
@@ -207,8 +207,10 @@ Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qua
 
 ## ***Lista provvisoria delle carte bandite (v1.3)***
 
-Oltre alle carte già presenti della [banned list di Commander](https://mtgcommander.net/index.php/banned-list/) e alle carte appartenenti alla categoria delle ["Carte Decisive"](https://magic.wizards.com/it/formats/commander#gamechangers), le seguenti carte non possono essere utilizzate in Tier-Z:
-
+le seguenti carte non possono essere utilizzate in Tier-Z:
+- tutte le carte già presenti della [banned list di Commander](https://playingmtg.com/commander-banned-card-list/)
+- tutte le carte appartenenti alla categoria delle ["Carte Decisive"](https://magic.wizards.com/it/formats/commander#gamechangers)
+- le seguenti carte specifiche:
 
 Thassa's Oracle  
 Demonic Consultation  
