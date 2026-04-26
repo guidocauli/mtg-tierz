@@ -205,9 +205,10 @@ Ogni giocatore, una sola volta per turno all’inizio della propria fase princip
 
 Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qualsiasi colore per lanciarla. Quando una carta del Grimorio dei Trucchetti viene messa in un cimitero dal gioco, viene invece messa in fondo al Grimorio dei Trucchetti.
 
-## ***Lista provvisoria delle carte bandite (v1.2.1)***
+## ***Lista provvisoria delle carte bandite (v1.3)***
 
-Oltre alle carte già presenti della [banned list di Commander](https://mtgcommander.net/index.php/banned-list/), le seguenti carte non possono essere utilizzate in Tier-Z:
+Oltre alle carte già presenti della [banned list di Commander](https://mtgcommander.net/index.php/banned-list/) e alle carte appartenenti alla categoria delle ["Carte Decisive"](https://magic.wizards.com/it/formats/commander#gamechangers), le seguenti carte non possono essere utilizzate in Tier-Z:
+
 
 Thassa's Oracle  
 Demonic Consultation  
