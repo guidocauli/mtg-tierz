@@ -3,9 +3,9 @@
 Tier-Z è un formato fan-made ispirato al Commander, concepito per offrire un’esperienza di gioco più narrativa, sociale e meno deterministica. 
 
 L’idea alla base è semplice: riportare al centro della partita le scelte dei giocatori, le interazioni al tavolo e la costruzione di una storia condivisa, **evitando quelle dinamiche che trasformano la partita in una sequenza prevedibile o inevitabile**.
-
+***
 Il formato nasce come una rielaborazione del Commander, ma mette da parte il concetto di "bracket" e introduce una serie di modifiche mirate a ridurre l’ottimizzazione parossistica e allo stesso tempo a favorire un power level distribuito. 
-
+***
 In Tier-Z non si cerca la combo perfetta, ma la coerenza del mazzo, la sinergia tra le carte e la capacità di adattarsi al contesto della partita.
 
 **La costruzione dei mazzi segue l’impianto del Commander classico, con cento carte totali in formato singleton e un comandante a guidare la strategia e l'identità di colore dei mazzi.**
