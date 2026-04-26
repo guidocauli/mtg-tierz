@@ -39,12 +39,12 @@ Non sono ammesse:
 
 * Combo infinite, ovvero sequenze di interazioni che generano un effetto ripetibile indefinitamente senza ulteriore investimento significativo di risorse  
 * Combo di due carte che producano condizioni di vittoria alternative istantanee  
-* Loop degenerativi deterministici o virtualmente infiniti, cioè combinazioni reiterabili più volte nello stesso turno o in più turni che producano un vantaggio proporzionalmente maggiore (danno, mana, pescate, turni extra)  
+* Loop degenerativi deterministici o virtualmente infiniti, cioè combinazioni reiterabili più volte nello stesso turno o in più turni che producano un vantaggio proporzionalmente sempre maggiore (danni, mana, pescate, turni extra)  
 * *Hard lock*, ovvero situazioni in cui uno o più giocatori non possano più partecipare in modo significativo alla partita.
 
 #### 2\. Rimozioni e bounce di massa asimmetrici
 
-Non sono ammesse carte o effetti diretti che colpiscono simultaneamente tutti gli avversari in modo esclusivo e indiscriminato, senza coinvolgere in modo comparabile il controllore.
+Non sono ammesse carte o effetti diretti che colpiscono simultaneamente tutti gli avversari in modo esclusivo e indiscriminato, senza coinvolgere in modo comparabile il controllore della carta o effetto.
 
 Esempi di effetti vietati:  
 “*ogni avversario sacrifica tutte le creature…*”  
@@ -57,7 +57,7 @@ Sono invece consentiti:
 
 #### 3\. Tutori diretti
 
-Non sono ammesse carte non-creatura il cui effetto principale consista nel cercare una o più carte non terra specifiche all’interno del proprio grimorio e aggiungerle direttamente alla propria mano o metterle sul campo di battaglia.
+Non sono ammesse carte non-creatura il cui effetto principale consista nel cercare una o più carte non terra specifiche all’interno di tutto il proprio grimorio e aggiungerle direttamente alla propria mano o metterle sul campo di battaglia.
 
 Sono consentiti:
 
@@ -211,7 +211,7 @@ Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qua
 le seguenti carte non possono essere utilizzate in Tier-Z:
 - tutte le carte già presenti della [banned list di Commander](https://playingmtg.com/commander-banned-card-list/)
 - tutte le carte appartenenti alla categoria delle ["Carte Decisive"](https://magic.wizards.com/it/formats/commander#gamechangers)
-- le seguenti carte specifiche:
+- le seguenti carte specifiche (qui in lingua inglese):
 
 Thassa's Oracle  
 Demonic Consultation  
