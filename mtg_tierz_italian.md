@@ -130,12 +130,17 @@ In caso di dubbi, si applica il seguente principio:
 *Se una carta, un effetto o una forma di interazione impiegate in maniera sistematica e ripetitiva riducono significativamente l’interazione tra giocatori o rende la partita non partecipativa, è da considerarsi non conforme allo spirito del formato.*   
 *La valutazione finale spetta sempre al tavolo.*
 
-### **Il comandante** 
 
-![](images/tierz_champions.png)
+
+![](images/tierz_champions.png)  
+
+### **Il comandante**  
 
 Il comandante è una figura chiave nel gioco narrativo in formato Tier-Z.  
 Al regolamento di Commander vengono applicate le seguenti modifiche:
+
+
+![](images/narrative_rules.png)
 ***
 **Benedizione del Campione**: una volta per turno, se un comandante diventa bersaglio di una magia o abilità controllata da un avversario, il suo controllore può pagare 3 punti vita: se lo fa, quel comandante viene TAPpato e guadagna velo fino alla fine del turno.  
 Questo effetto è da considerarsi alla stregua di un'abilità attivata e utilizza la pila.
