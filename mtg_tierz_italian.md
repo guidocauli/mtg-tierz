@@ -145,6 +145,7 @@ Al regolamento di Commander vengono applicate le seguenti modifiche:
 **Benedizione del Campione**: una volta per turno, quando un comandante  diventa bersaglio di una magia o abilità controllata da un avversario, se il comandante è STAPpato il suo controllore può pagare 3 punti vita: se lo fa, quel comandante diventa TAPpato e fino alla fine del turno perde tutte le sue abilità e guadagna velo.  
 
 Questo effetto è da considerarsi alla stregua di un'abilità innescata (603.4) e utilizza la pila.
+Se il comandante è TAPpato nel momento in cui l'abilità di Benedizione del Campione si risolve, l'abilità viene rimossa dalla pila e non ha effetto.
 ***
 **Presenza del Campione**: una volta per turno, quando un comandante entra nel campo di battaglia dalla zona di comando, se il giocatore che lo evoca controlla almeno un'altra creatura, quel giocatore può scegliere e attivare uno dei seguenti effetti:
 
