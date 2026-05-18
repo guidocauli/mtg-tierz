@@ -1,8 +1,8 @@
 # **Tier-Z - un formato di gioco narrativo per MtG**
 ![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
-Ultimo aggiornamento: 26/04/2026  
-Documento bozza versione 1.3.4
+Ultimo aggiornamento: 18/05/2026  
+Documento bozza versione 1.3.5
 
 MtG Tier-Z è un formato multiplayer di MtG strettamente non competitivo derivato dal formato Commander e progettato per:
 
