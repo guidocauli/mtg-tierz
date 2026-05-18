@@ -174,7 +174,8 @@ Questo effetto è da considerarsi alla stregua di un'abilità innescata e utiliz
 Questo effetto si innesca se un comandante è in un cimitero e quella carta è stata messa in quella zona l'ultima volta che sono state controllate le azioni basate sullo stato (vedi regola 704.6d).
 ***
 
-**Danno da comandante**: in Tier-Z il concetto di “danno da comandante” non si applica.
+**Danno da comandante**:  
+**in Tier-Z il concetto di “danno da comandante” non si applica.**
 
 ***
   
