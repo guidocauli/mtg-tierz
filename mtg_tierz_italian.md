@@ -134,13 +134,12 @@ In caso di dubbi, si applica il seguente principio:
 
 ![](images/tierz_champions.png)  
 
-### **Il comandante**  
+### **Regole Opzionali: il comandante**  
 
 Il comandante è una figura chiave nel gioco narrativo in formato Tier-Z.  
-Al regolamento di Commander vengono applicate le seguenti modifiche:
+Al regolamento di Commander possono essere applicate le seguenti modifiche:
 
-
-![](images/narrative_rules.png)
+<!-- ![](images/narrative_rules.png) -->
 ***
 **Benedizione del Campione**: una volta per turno, quando un comandante  diventa bersaglio di una magia o abilità controllata da un avversario, se il comandante è STAPpato il suo controllore può pagare 3 punti vita: se lo fa, quel comandante diventa TAPpato e fino alla fine del turno perde tutte le sue abilità e guadagna velo.  
 
@@ -149,20 +148,22 @@ Se il comandante è TAPpato nel momento in cui l'abilità di Benedizione del Cam
 ***
 **Presenza del Campione**: una volta per turno, quando un comandante entra nel campo di battaglia dalla zona di comando, se il giocatore che lo evoca controlla almeno un'altra creatura, quel giocatore può scegliere e attivare uno dei seguenti effetti:
 
-* Aggiunge una carta dalla cima del deck alla mano  
+* Una creatura che controlla prende \+2/+0 fino alla fine del turno  
 * Guadagna 3 punti vita  
 * STAPpa fino a due terre base
 
 Questo effetto è da considerarsi alla stregua di un'abilità innescata e utilizza la pila.
 ***
-**Requiem del Campione**: una sola volta per turno, quando un comandante lascia il campo di battaglia, se il giocatore che controllava quel comandante controlla almeno un’altra creatura sul campo di battaglia, quel giocatore deve scegliere e attivare uno dei seguenti effetti: 
+**Requiem del Campione**: una sola volta per turno, quando un comandante muore, se il giocatore che controllava quel comandante controlla almeno un’altra creatura sul campo di battaglia, quel giocatore deve scegliere e attivare uno dei seguenti effetti: 
 
 * Una creatura che controlla prende \-2/-0 fino alle fine del turno  
 * Sceglie una carta dalla propria mano e la mette in cima al proprio deck   
 * Perde 3 punti vita
 
 Questo effetto è da considerarsi alla stregua di un'abilità innescata e utilizza la pila.
+Questo effetto si innesca se un comandante è in un cimitero e quella carta è stata messa in quella zona l'ultima volta che sono state controllate le azioni basate sullo stato (vedi regola 704.6d).
 ***
+
 **Danno da comandante**: in Tier-Z il concetto di “danno da comandante” non si applica.
 
 
@@ -174,10 +175,14 @@ Questo effetto è da considerarsi alla stregua di un'abilità innescata e utiliz
 
 
 Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come Momento Epico. 
-I turni definiti come Momento Epico devono includere interazioni significative con altri giocatori e/o azioni mirate a cambiare profondamente gli equilibri di gioco. 
-Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere. 
+I turni definiti come Momento Epico devono includere almeno uno tra i seguenti effetti:
 
-Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto e in base all'esito si determina: 
+* azioni e/o interazioni mirate a cambiare profondamente gli equilibri di gioco in favore del giocatore di turno
+* azioni e/o interazioni mirate ad alterare la struttura del campo di battaglia in favore del giocatore di turno
+
+Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere. La maggioranza del tavolo dev'essere in accordo perchè la dichiarazione del Momento Epico possa essere considerata valida.
+
+Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto e in base all'esito ottenuto si determina: 
 ***
 * **Successo totale**: l'azione è riuscita esattamente come dichiarato. Alla fine del turno, il giocatore ottiene un bonus a scelta tra i seguenti:  
   * STAPpa fino a tre terre che controlla  
@@ -195,7 +200,6 @@ Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto 
 ***
 
 Le azioni effettuate in seguito agli esiti del Momento Epico non vanno in pila, sono trattate alla stregua di azioni generate dallo stato e sono effettuate durante la sottofase di cancellazione. Eventuali effetti generati vanno in pila al termine della sottofase di cancellazione (vedi regole 514.2 e 514.3a).
-
 
 ### **Regola opzionale: Grimorio dei Trucchetti (cantrips)**
 ![](images/tierz_cantrips.png)
