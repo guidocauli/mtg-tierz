@@ -126,13 +126,6 @@ Riferimento prezzi:
 Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 7 giorni, considerando la versione non-foil e più economica disponibile della carta.  
 Eventuali discrepanze vanno risolte consensualmente tra i giocatori.
 
-## ***Principio di centralità del tavolo***
-
-Tier-Z è un formato non competitivo. Ciò significa che questo regolamento può anche essere variato e applicato nella sua totalità o solo in parte, in base alle decisioni prese dal tavolo, cioè dall'insieme dei giocatori che decidono di giocare a Tier-Z.  
-Le decisioni andrebbero prese di concerto, agendo su base maggioritaria in caso ci sia necessità di arrivare a degli accordi.  
-Allo stesso modo, per ogni decisione o situazione, la valutazione finale spetta al tavolo stesso.
-
-
 ## ***Regole per la componente narrativa***
 
 In caso di dubbi, si applica il seguente principio:  
@@ -227,6 +220,14 @@ per “trucchetti” (cantrips) si intendono carte Istantaneo o Stregoneria con 
 Ogni giocatore, una sola volta per turno all’inizio della propria fase principale pre-combattimento, può guardare la carta in cima a questo deck pagando 3 punti vita. Dopodiché può decidere se aggiungerla alla propria mano o metterla in fondo al Grimorio dei Trucchetti. 
 
 Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qualsiasi colore per lanciarla. Quando una carta del Grimorio dei Trucchetti viene messa in un cimitero dal gioco, viene invece messa in fondo al Grimorio dei Trucchetti.
+
+
+## ***Principio di centralità del tavolo***
+
+Tier-Z è un formato non competitivo. Ciò significa che questo regolamento può anche essere variato e applicato nella sua totalità o solo in parte, in base alle decisioni prese dal tavolo, cioè dall'insieme dei giocatori che decidono di giocare a Tier-Z.  
+Le decisioni andrebbero prese di concerto, agendo su base maggioritaria in caso ci sia necessità di arrivare a degli accordi.  
+Allo stesso modo, per ogni decisione o situazione, la valutazione finale spetta al tavolo stesso.
+
 
 ## ***Lista provvisoria delle carte bandite (v1.3)***
 
