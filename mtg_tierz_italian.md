@@ -4,15 +4,18 @@ Autore: Guido Cauli \<guido.cauli@gmail.com\>
 Ultimo aggiornamento: 18/05/2026  
 Documento bozza versione 1.3.5
 
-MtG Tier-Z è un formato multiplayer di MtG strettamente non competitivo derivato dal formato Commander e progettato per:
+MtG Tier-Z è un formato multiplayer di MtG **strettamente non competitivo** derivato dal formato Commander e progettato per:
 
 * incentivare la socialità e l’interazione tra giocatori  
 * favorire partite narrative e memorabili  
 * ridurre l’ottimizzazione parossistica dei mazzi  
 * eliminare strategie non interattive o oppressive
 
-Il formato privilegia il divertimento condiviso rispetto alla competitività.  
-I principi fondamentali sono: **non-determinismo, economicità, narrativa**.
+
+Tier-Z, per quanto derivato da Commander (EDH), non è un bracket di Commander e non fa parte di tale formato.   
+Può esserci una limitata compatibilità dei deck Tier-Z con i bracket 1-3 di Commander, ma i deck sviluppati per Commander non sono automaticamente legali e/o giocabili in Tier-Z.  
+Il formato privilegia il divertimento condiviso e la narrazione rispetto alla competitività.  
+I principi fondamentali sono: **non-determinismo, economicità, narrativa, centralità del tavolo**.
 
 ## ***Principio base di non-determinismo***  ***(“Regola Zero”)***
 
@@ -40,7 +43,7 @@ Non sono ammesse:
 * Combo infinite, ovvero sequenze di interazioni che generano un effetto ripetibile indefinitamente senza ulteriore investimento significativo di risorse  
 * Combo di due carte che producano condizioni di vittoria alternative istantanee  
 * Loop degenerativi deterministici o virtualmente infiniti, cioè combinazioni reiterabili più volte nello stesso turno o in più turni che producano un vantaggio proporzionalmente sempre maggiore (danni, mana, pescate, turni extra)  
-* *Hard lock*, ovvero situazioni in cui uno o più giocatori non possano più partecipare in modo significativo alla partita.
+* Situazioni di *Hard lock*, in cui uno o più giocatori non possano più partecipare in modo significativo alla partita.
 
 #### 2\. Rimozioni e bounce di massa asimmetrici
 
@@ -79,13 +82,13 @@ Definizione:
 
 Sono quindi vietati:
 
-* effetti stile Studio Ristico  
-* effetti stile Dilemma Doloroso  
+* effetti stile "Studio Ristico"  
+* effetti stile "Dilemma Doloroso"  
 * carte che impongono costi aggiuntivi globali o continui agli avversari
 
 Sono invece consentiti:
 
-* effetti one-shot (es. tassa singola temporanea)  
+* effetti _one-shot_ (es. tassa singola temporanea)  
 * Effetti come Propaganda o Prigione Spettrale, perché non impediscono al giocatore di turno di attaccare tutti gli altri giocatori, ma sono il controllore di tale effetto   
 * effetti situazionali o non ripetibili  
 * interazioni che richiedono scelte attive ma non sistematicamente oppressive nel lungo periodo
@@ -115,7 +118,6 @@ Regola generale:
 All'inizio della partita, ad ogni giocatore sono concessi 2 mulligan gratuiti.  
 Dal terzo mulligan si applica la regola standard del London Mulligan.
 
-
 ## ***Budget generale del mazzo***  ***(principio di economicità)***
 
 Il costo massimo del mazzo non deve superare i 100€ o 130USD, mentre il costo massimo per una singola carta del mazzo non deve superare 10€ o 13 USD.
@@ -124,12 +126,17 @@ Riferimento prezzi:
 Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 7 giorni, considerando la versione non-foil e più economica disponibile della carta.  
 Eventuali discrepanze vanno risolte consensualmente tra i giocatori.
 
+## ***Principio di centralità del tavolo***
+
+Tier-Z è un formato non competitivo. Ciò significa che questo regolamento può anche essere variato e applicato nella sua totalità o solo in parte, in base alle decisioni prese dal tavolo, cioè dall'insieme dei giocatori che decidono di giocare a Tier-Z.  
+Le decisioni andrebbero prese di concerto, agendo su base maggioritaria in caso ci sia necessità di arrivare a degli accordi.  
+Allo stesso modo, per ogni decisione o situazione, la valutazione finale spetta al tavolo stesso.
+
+
 ## ***Regole per la componente narrativa***
 
 In caso di dubbi, si applica il seguente principio:  
 *Se una carta, un effetto o una forma di interazione impiegate in maniera sistematica e ripetitiva riducono significativamente l’interazione tra giocatori o rende la partita non partecipativa, è da considerarsi non conforme allo spirito del formato.*   
-*La valutazione finale spetta sempre al tavolo.*
-
 
 
 ![](images/tierz_champions.png)  
@@ -144,7 +151,7 @@ Al regolamento di Commander possono essere applicate le seguenti modifiche:
 **Benedizione del Campione:   
 una sola volta per turno, quando un comandante diventa bersaglio di una magia o abilità controllata da un avversario, se il comandante è STAPpato il suo controllore può pagare 3 punti vita: se lo fa, quel comandante diventa TAPpato e fino alla fine del turno perde tutte le sue abilità e guadagna velo.**  
 
-Questo effetto è da considerarsi alla stregua di un'abilità innescata (603.4) e utilizza la pila.
+Questo effetto è da considerarsi alla stregua di un'abilità innescata (603.4) e utilizza la pila.  
 Se il comandante è TAPpato nel momento in cui l'abilità di Benedizione del Campione si risolve, l'abilità viene rimossa dalla pila e non ha effetto.
 ***
 **Presenza del Campione:  
