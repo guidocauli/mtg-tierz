@@ -2,6 +2,7 @@
 ![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
 Ultimo aggiornamento: 25/05/2026  
+Ringraziamenti a: Viviana Cauli, Andrea Daviddi, Giacinto Donvito, Nadina Foggetti, Claudio Lenato, Pompeo Francesco Lippolis, Francesco Micunco 
 Documento versione 1.4
 
 MtG Tier-Z è un formato multiplayer di MtG **strettamente non competitivo** derivato dal formato Commander e progettato per:
