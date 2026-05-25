@@ -194,7 +194,7 @@ Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto 
   * Aggiunge una carta dalla cima del deck alla propria mano  
 * **Successo parziale**: l'azione è riuscita parzialmente rispetto a quanto dichiarato. Alla fine del turno, il giocatore ottiene un bonus a scelta:  
   * STAPpa fino a due terre base che controlla  
-  * Strappa fino a una creatura con forza pari a 2 o inferiore  
+  * STAPpa fino a una creatura con forza pari a 2 o inferiore  
   * Guadagna 2 punti vita  
 * **Fallimento**: l'azione non è riuscita, è stata totalmente neutralizzata o non ha sortito alcun effetto dichiarato. Alla fine del turno, il giocatore ottiene una penalità a scelta tra:  
   * Sacrifica una creatura non pedina   
