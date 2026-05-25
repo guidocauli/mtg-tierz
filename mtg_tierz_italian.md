@@ -1,8 +1,8 @@
 # **Tier-Z - un formato di gioco narrativo per MtG**
 ![](images/tierz_battlefield.png)
 Autore: Guido Cauli \<guido.cauli@gmail.com\>  
-Ultimo aggiornamento: 18/05/2026  
-Documento bozza versione 1.3.5
+Ultimo aggiornamento: 25/05/2026  
+Documento bozza versione 1.4
 
 MtG Tier-Z è un formato multiplayer di MtG **strettamente non competitivo** derivato dal formato Commander e progettato per:
 
@@ -12,21 +12,21 @@ MtG Tier-Z è un formato multiplayer di MtG **strettamente non competitivo** der
 * eliminare strategie non interattive o oppressive
 
 
-Tier-Z, per quanto derivato da Commander (EDH), non è un bracket di Commander e non fa parte di tale formato.   
+**Tier-Z, per quanto derivato da Commander (EDH), non è un bracket di Commander e non fa parte di tale formato.**   
 Può esserci una limitata compatibilità dei deck Tier-Z con i bracket 1-3 di Commander, ma i deck sviluppati per Commander non sono automaticamente legali e/o giocabili in Tier-Z.  
 Il formato privilegia il divertimento condiviso e la narrazione rispetto alla competitività.  
 I principi fondamentali sono: **non-determinismo, economicità, narrativa, centralità del tavolo**.
 
-## ***Principio base di non-determinismo***  ***(“Regola Zero”)***
+## ***Principio base di non-determinismo***  ***(“Regola zero”)***
 
-Un gameplay è considerato *deterministico* quando, a partire da una certa posizione di gioco, un giocatore può eseguire in maniera sistematica una sequenza di azioni prevedibile e solidamente ripetibile, che porti a un risultato ottimale con minima o nulla interazione significativa da parte degli avversari.
-
-Questo si può tradurre con la restrizione di:
+Un gameplay è considerato *deterministico* quando, a partire da una certa posizione di gioco, un giocatore può eseguire in maniera sistematica una sequenza di azioni prevedibile e solidamente ripetibile, che porti a un risultato ottimale con minima o nulla interazione significativa da parte degli avversari.  
+In Tier-Z questo tipo di gameplay è considerato non ammesso.  
+Questo si può tradurre con la volontà di limitare il più possibile:
 
 * sequenze di gioco predefinite e lineari  
-* situazioni in cui le scelte diventano automatiche o obbligate  
-* riduzione significativa della varianza e dell’imprevedibilità  
-* turni prolungati in cui un solo giocatore esegue molte azioni senza reale opposizione
+* situazioni in cui le scelte diventano automatiche e/o obbligate  
+* giocate che riducano in maniera significativa varianza e imprevedibilità  
+* turni prolungati in cui un solo giocatore esegue molte azioni senza un reale opposizione da parte di altri giocatori
 
 In Tier-Z una tipologia di gameplay esclusivamente e palesemente deterministica è considerata non valida.
 
@@ -42,7 +42,7 @@ Non sono ammesse:
 
 * Combo infinite, ovvero sequenze di interazioni che generano un effetto ripetibile indefinitamente senza ulteriore investimento significativo di risorse  
 * Combo di due carte che producano condizioni di vittoria alternative istantanee  
-* Loop degenerativi deterministici o virtualmente infiniti, cioè combinazioni reiterabili più volte nello stesso turno o in più turni che producano un vantaggio proporzionalmente sempre maggiore (danni, mana, pescate, turni extra)  
+* Loop degenerativi deterministici o virtualmente infiniti, cioè combinazioni reiterabili più di 3 volte nello stesso turno che producano un vantaggio proporzionalmente sempre maggiore (danni, mana, carte pescate, turni extra)  
 * Situazioni di *Hard lock*, in cui uno o più giocatori non possano più partecipare in modo significativo alla partita.
 
 #### 2\. Rimozioni e bounce di massa asimmetrici
@@ -123,7 +123,7 @@ Dal terzo mulligan si applica la regola standard del London Mulligan.
 Il costo massimo del mazzo non deve superare i 100€ o 130USD, mentre il costo massimo per una singola carta del mazzo non deve superare 10€ o 13 USD.
 
 Riferimento prezzi:  
-Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 30 giorni, considerando la versione non-foil e più economica disponibile della carta.  
+Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 30 giorni, considerando la versione non-foil e comunque più economica disponibile della carta.  
 Eventuali discrepanze vanno risolte consensualmente tra i giocatori.
 
 ## ***Regole per la componente narrativa***
@@ -180,10 +180,10 @@ Questo effetto si innesca se un comandante è in un cimitero e quella carta è s
 Una volta per partita, ciascun giocatore può annunciare le azioni da compiere in uno dei propri turni dichiarandole come Momento Epico. 
 I turni definiti come Momento Epico devono includere almeno uno tra i seguenti effetti:
 
-* azioni e/o interazioni mirate a cambiare profondamente gli equilibri di gioco in favore del giocatore di turno
-* azioni e/o interazioni mirate ad alterare la struttura del campo di battaglia in favore del giocatore di turno
+* azioni e/o interazioni mirate a cambiare profondamente gli equilibri di gioco in favore del giocatore di turno o della sua squadra
+* azioni e/o interazioni mirate ad alterare la struttura del campo di battaglia in favore del giocatore di turno o della sua squadra
 
-Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere. La maggioranza del tavolo dev'essere in accordo perchè la dichiarazione del Momento Epico possa essere considerata valida.
+Una volta dichiarato il Momento Epico, il giocatore di turno descrive i dettagli delle sue azioni e soprattutto dichiara al tavolo la previsione del risultato che intende ottenere.
 
 Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto e in base all'esito ottenuto si determina: 
 ***
@@ -202,7 +202,7 @@ Le azioni dichiarate dal giocatore di turno vengono effettuate come di consueto 
   * Esilia una carta non terra dalla mano.
 ***
 
-Le azioni effettuate in seguito agli esiti del Momento Epico non vanno in pila, sono trattate alla stregua di azioni generate dallo stato e sono effettuate durante la sottofase di cancellazione. Eventuali effetti generati vanno in pila al termine della sottofase di cancellazione (vedi regole 514.2 e 514.3a).
+Le azioni effettuate in seguito agli esiti del Momento Epico non vanno in pila, sono trattate alla stregua di azioni generate dallo stato e sono effettuate all'inizio della sottofase finale (*End Step*).
 
 ### **Regola opzionale: Grimorio dei Trucchetti (cantrips)**
 ![](images/tierz_cantrips.png)
@@ -225,7 +225,7 @@ Una carta del Grimorio dei Trucchetti può essere utilizzata pagando mana di qua
 
 Tier-Z è un formato non competitivo. Ciò significa che questo regolamento può anche essere variato e applicato nella sua totalità o solo in parte, in base alle decisioni prese dal tavolo, cioè dall'insieme dei giocatori che decidono di giocare a Tier-Z.  
 Le decisioni andrebbero prese di concerto, agendo su base maggioritaria in caso ci sia necessità di arrivare a degli accordi.  
-Allo stesso modo, per ogni decisione o situazione, la valutazione finale spetta al tavolo stesso.
+Allo stesso modo, per ogni decisione o situazione che esula dalle presenti regole, la valutazione finale spetta al tavolo stesso.
 
 
 ## ***Lista provvisoria delle carte bandite (v1.3)***
