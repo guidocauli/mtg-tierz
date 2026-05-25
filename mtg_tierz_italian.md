@@ -227,7 +227,7 @@ Le decisioni andrebbero prese di concerto, agendo su base maggioritaria in caso 
 Allo stesso modo, per ogni decisione o situazione che esula dalle presenti regole, la valutazione finale spetta al tavolo stesso.
 
 
-## ***Lista provvisoria delle carte bandite (v1.3)***
+## ***Lista provvisoria delle carte bandite***
 
 le seguenti carte non possono essere utilizzate in Tier-Z:
 - tutte le carte già presenti della [banned list di Commander](https://playingmtg.com/commander-banned-card-list/)
@@ -269,7 +269,7 @@ Nexus of Fate
 Expropriate  
 Emeritus of Woe  
 
-### **Watch list provvisoria v1.2** 
+### **Watch list provvisoria** 
 
 (carte da monitorare, non bandite ma da considerare caso per caso)
 
