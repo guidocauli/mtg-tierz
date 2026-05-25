@@ -89,7 +89,7 @@ Sono quindi vietati:
 Sono invece consentiti:
 
 * effetti _one-shot_ (es. tassa singola temporanea)  
-* Effetti come Propaganda o Prigione Spettrale, perché non impediscono al giocatore di turno di attaccare tutti gli altri giocatori, ma sono il controllore di tale effetto   
+* Effetti come Propaganda o Prigione Spettrale, perché non impediscono al giocatore di turno di attaccare tutti gli altri giocatori, ma solo il controllore di tale effetto   
 * effetti situazionali o non ripetibili  
 * interazioni che richiedono scelte attive ma non sistematicamente oppressive nel lungo periodo
 
