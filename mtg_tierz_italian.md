@@ -123,7 +123,7 @@ Dal terzo mulligan si applica la regola standard del London Mulligan.
 Il costo massimo del mazzo non deve superare i 100€ o 130USD, mentre il costo massimo per una singola carta del mazzo non deve superare 10€ o 13 USD.
 
 Riferimento prezzi:  
-Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 7 giorni, considerando la versione non-foil e più economica disponibile della carta.  
+Scryfall, Moxfield o comunque prezzo medio su Cardmarket degli ultimi 30 giorni, considerando la versione non-foil e più economica disponibile della carta.  
 Eventuali discrepanze vanno risolte consensualmente tra i giocatori.
 
 ## ***Regole per la componente narrativa***
@@ -142,10 +142,9 @@ Al regolamento di Commander possono essere applicate le seguenti modifiche:
 <!-- ![](images/narrative_rules.png) -->
 ***
 **Benedizione del Campione:   
-una sola volta per turno, quando un comandante diventa bersaglio di una magia o abilità controllata da un avversario, se il comandante è STAPpato il suo controllore può pagare 3 punti vita: se lo fa, quel comandante diventa TAPpato e fino alla fine del turno perde tutte le sue abilità e guadagna velo.**  
+una sola volta per turno, quando un comandante diventa bersaglio di una magia o abilità controllata da un avversario, se il comandante è STAPpato il suo controllore può pagare 3 punti vita: se lo fa, quel comandante scompare (va *Fuori Fase*).**  
 
 Questo effetto è da considerarsi alla stregua di un'abilità innescata (603.4) e utilizza la pila.  
-Se il comandante è TAPpato nel momento in cui l'abilità di Benedizione del Campione si risolve, l'abilità viene rimossa dalla pila e non ha effetto.
 ***
 **Presenza del Campione:  
 una sola volta per turno, quando un comandante entra nel campo di battaglia dalla zona di comando, se il giocatore che lo evoca controlla almeno un'altra creatura, quel giocatore può scegliere e attivare uno dei seguenti effetti:**
